@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MAStelmo Stat BSc; FinancialAcc MSc; IT systems,languages&tools self paced Mid/Adv User like BI, SQL, SAS, PASW, R, Business Objects, Pentaho, Talend... 
+- 👋 Hi, I’m @MAStelmo Stat BSc; FinancialAcc MSc; IT systems,languages&tools self paced Mid/Adv User like BI, SQL, SAS, PASW, R, Business Objects, Pentaho, Talend and some Statistics uses on GIS. 
 - 👀 I’m interested in Entrepreneurship, Management.   
 - 🌱 I’m currently on self paced learning path of Python, Neo4j and MySQL/MariaDB. 
 - 💞️ I’m looking to collaborate on as Decision Aid Services Remote Supply.
